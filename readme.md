@@ -2,10 +2,10 @@
 ## while running any file make sure to install required package using the command:
 
 Task1: server.js\
- -- npm install express\
+ -- npm install express
 
 Task2: dataManipulation.js\
- -- Install the package using the command: npm install readline-sync\
+ -- Install the package using the command: npm install readline-sync
 
 Task3: async-fileHandling.js\
  -- Install the package using the command: npm install line-reader\
