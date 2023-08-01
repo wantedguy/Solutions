@@ -1,5 +1,5 @@
 ## There are three different files for 3 tasks
-## while running any file make sure to install required package using the command:
+## While running any file make sure to install the required package using the command:
 
 Task1: server.js\
  -- npm install express
